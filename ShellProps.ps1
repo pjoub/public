@@ -1,5 +1,5 @@
 ﻿#
-# Usage shell extended properties to map photo GPS coordinates to a location
+# Use shell extended properties to map photo GPS coordinates to a location
 # Photos can then be renamed based on the location they were taken from
 
 #
